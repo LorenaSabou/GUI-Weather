@@ -12,3 +12,4 @@ Functionalities:
   2.Returns to initial state of list
   3.Computes total duration (hours) of given type of weather( ie : cloudy,rainy ,sunny and so on)
 This code requires Qt5 integration .
+
