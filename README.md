@@ -1,5 +1,4 @@
-
-### Write an application which allows you to see the weather for the current day. (GUI included)  
+An application which allows you to see the weather for the current day. (GUI included)  
 
 ## Input data:  
   -File: input.txt  
@@ -13,3 +12,6 @@
 	  
 **This code requires Qt5 integration .**
 
+
+# SCREENSHOT
+![screenshot 195](https://cloud.githubusercontent.com/assets/25063050/26730124/9f27dff2-47b8-11e7-9e6b-7c6195b45003.png)
